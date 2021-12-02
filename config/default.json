@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://langej11:Jezobelle191@cluster0.0ax7b.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://langej11:Jezobelle191@cluster0.0ax7b.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"maytheforcebewithyou"
 }
